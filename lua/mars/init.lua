@@ -4,7 +4,7 @@ local M = {}
 
 local colors = {
     -- core
-    bg             = "#05050a",
+    bg             = "#000000",
     fg             = "#f6f8ff",
     selected_bg    = "#262033",
     selected_fg    = "#f6f8ff",
